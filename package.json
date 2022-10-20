@@ -23,7 +23,7 @@
     "react-native-modalbox": "^1.7.1",
     "react-native-pedometer": "0.0.7",
     "react-native-progress-bar-animated": "^1.0.6",
-    "react-native-reanimated": "^1.1.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-svg": "^9.11.1",
     "react-native-textinput-effects": "^0.5.1",
     "react-native-vector-icons": "^6.6.0",
